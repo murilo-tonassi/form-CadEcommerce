@@ -17,7 +17,7 @@
 - [Netshoes](https://www.netshoes.com.br/)
 
 ## Funcionalidades 🧠
-- Aprender a construir uma tabela de formulário de contatos em HTML5
+ Aprender a construir uma tabela de formulário de contatos em HTML5
  
 ## Tecnologias Utilizadas 🖥️  
 - Visual Studio Code;
@@ -25,9 +25,8 @@
 - HTML5;
 - Github;
  
-## Fontes Consultadas 🔗
-- 
 
 ## Autores 👥
+- [Murilo Tonassi](https://github.com/murilo-tonassi)
 - [João Pedro Gonçalves](https://github.com/s-pedro13)
 - [Nicolas Tonassi](https://github.com/nicolas-tonassi)
