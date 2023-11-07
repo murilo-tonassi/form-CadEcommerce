@@ -11,8 +11,13 @@
 ## Descrição 📖
 -  Este projeto consiste na criação de um site de cadastro de clientes, inspirado em elementos encontrados em três sites de e-commerce. O site permite aos usuários fornecer informações essenciais, como nome, endereço e detalhes de contato, simplificando o processo de registro. Este trabalho destina-se a demonstrar nossas habilidades em HTML e nossa capacidade de sintetizar informações de várias fontes para desenvolver uma solução única.
 
-## IntroduçãO ✉️
+## Introdução ✉️
 Preenchimento de dados 
+
+![](cadastro.png)
+
+![](cadastro2.png)
+ 
 
 ## Sites consultados
 - [Amazon](https://www.amazon.com.br/)
@@ -22,10 +27,6 @@ Preenchimento de dados
 ## Funcionalidades 🧠
  Aprender a construir uma tabela de formulário de contatos em HTML5
 
- ![](cadastro.png)
-
- ![](cadastro2.png)
- 
 ## Tecnologias Utilizadas 🖥️  
 - Visual Studio Code;
 - CSS3;
