@@ -36,9 +36,12 @@ Preenchimento de dados em um formulário de cadasro para compra em um site de Ec
 - CSS3;
 - HTML5;
 - Github;
+- Boot Strap
+- Git
+
  
 
 ## Autores 👥
 - [Murilo Tonassi](https://github.com/murilo-tonassi)
-- [João Pedro Gonçalves](https://github.com/s-pedro13)
+- [naillim novaski](https://github.com/naillimnovaski)
 - [Nicolas Tonassi](https://github.com/nicolas-tonassi)
